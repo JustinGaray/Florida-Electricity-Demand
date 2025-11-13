@@ -11,7 +11,7 @@ resilient grid, which can prevent many challenges we face and ensure we use ener
 
 ### Authors
 Justin Garay 
-
+GitHub: https://github.com/JustinGaray 
 ### Example Input and Output
 | Input | Output |
 |----------------------------|---------------------------|
