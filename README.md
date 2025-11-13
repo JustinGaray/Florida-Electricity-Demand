@@ -10,7 +10,7 @@ energy intensifies. This tool can be used to see which regions greatly need a mo
 resilient grid, which can prevent many challenges we face and ensure we use energy efficiently.
 
 ### Authors
-Justin Garay 
+Justin Garay  
 GitHub: https://github.com/JustinGaray 
 ### Example Input and Output
 | Input | Output |
