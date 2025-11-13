@@ -1,6 +1,6 @@
 # Florida-Electricity-Demand
 ## Overview
-This project predicts a region's energy consumption in Florida, based off of its 
+This project predicts a region's energy consumption in Florida, based on its 
 location, date, and the forecasted high and low temperatures within that day. I am 
 currently a student at the University of Florida who is majoring in Sustainability 
 and the Built Environment. Going in with the focus of making the world more sustainable, 
